@@ -1,0 +1,34 @@
+{
+  "@context": [
+    "https://w3id.org/identity/v1",
+    "https://w3id.org/security/v1",
+    "http://schema.dominode.com/dominode-schema.json"
+  ],
+  "CredentialSource": {
+    "dateOfExpiration": "2020-01-17T00:00:00Z",
+    "dateOfIssue": "2018-12-19T09:41:15-05:00",
+    "issuer": "did:v1:nym:FYZfnwtr...",
+    "name": "Driver License"
+  },
+  "claim": {
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "CUMMING",
+      "addressRegion": "GA",
+      "postalCode": "30040-6513",
+      "streetAddress": "6725 MOULTON PL"
+    },
+    "dateOfIssue": "2016-12-09T00:00:00.000Z",
+    "familyName": "DUNCAN",
+    "givenName": "CHERIE MARIE",
+    "id": "did:ebfeb1f712ebc6f1c276e12ec21"
+  },
+  "id": "06e929d3-c429-47ef-b6d7-c55083a68f51",
+  "issued": "2018-12-19T09:41:15-05:00",
+  "issuer": "https://agency.dominode.com",
+  "proofName": "ProofOfExistence",
+  "type": [
+    "Credential",
+    "ProofOfExistence"
+  ]
+}
